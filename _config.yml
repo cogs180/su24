@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: cogs180
-tagline: decision making in the brain 🧠
+tagline: cogs180: decision making in the brain 🧠
 description: how do we make decisions? what drives our choices?
 author: lucy lai
 baseurl: '/su24' # the subpath of your site, e.g. /blog
