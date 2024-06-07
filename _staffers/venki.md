@@ -1,8 +1,8 @@
 ---
-name: Venkatesh Murthy
+name: Lucy Lai
 role: Instructor
-email: vnmurthy@fas.harvard.edu 
-website: https://www.mcb.harvard.edu/directory/venkatesh-murthy/
-photo: venki.jpg
+email: lucylai@g.harvard.edu 
+website: https://www.lucy-lai.com
+photo: lucy.jpg
 ---
-Hi, I am Venki. I have been on the faculty at Harvard for more than 20 years (yikes!). My research in neuroscience has spanned a wide range - from individual nerve connections to animal behavior. Currently, my group is interested in understanding the neural and algorithmic basis of sensory-guided behaviors, particularly olfactory behaviors. We have also become interested in the relation between animal and machine intelligence. I have taught introductory and advanced neuroscience courses at Harvard, and am very excited to teach this Gen Ed course, which started a few years ago as a Freshman Seminar in the College.
+Hi, I will be your course instructor for Cogs 180! I am incredibly passionate about teaching have 8 years experience in teaching both undergraduate and graduate courses at Rice University and Harvard. I recieved my Ph.D. from Harvard in May 2024, where I studied "resource-rational" decision making (or, how people make decisions with limited cognitive resources). My research employs computational modeling (information theory, bayesian statistics, reinforcement learning) to understand human behavior, from learning and decision making to the psychology of beliefs. I am very excited to revive this course this summer, and to learn together with you all about this fasicating topic which is pertinent to our everyday lives. I always welcome feedback, so please don't hesitate to be in touch. 
