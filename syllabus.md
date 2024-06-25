@@ -6,7 +6,7 @@ description: >-
     Course policies and information.
 ---
 
-# Syllabus
+# Syllabus (Under construction)
 {:.no_toc}
 
 ## Table of contents
