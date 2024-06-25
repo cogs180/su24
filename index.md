@@ -15,7 +15,6 @@ seo:
 
 ## Course Information
 
-
 |-------------|--------|
 | **Instructor** | [Lucy Lai, Ph.D.](https://www.lucylai.com) ([lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu)) |
 | **TA**         | Janet Tung ([j5tung@ucsd.edu](mailto:j5tung@ucsd.edu))                |
