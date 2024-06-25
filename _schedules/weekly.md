@@ -34,7 +34,7 @@ schedule:
         start: 5:00 PM
         end: 6:20 PM
         location: Zoom
-      - name: Discussion Section
+      - name: Section
         start: 1:00 PM
         end: 1:50 PM
         location: Zoom
@@ -54,8 +54,9 @@ schedule:
        start: 5:00 PM
        end: 6:20 PM
        location: Zoom
-     - name: Discussion Section
+     - name: Section
        start: 1:00 PM
        end: 1:50 PM
        location: Zoom
+  - name: Friday
 ---
