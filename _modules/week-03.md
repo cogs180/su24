@@ -1,5 +1,5 @@
 ---
-title: Week 3 - The Building Blocks of Biological and Artificial Intelligence (Cont'd)
+title: Week 3 
 ---
 
 Jul 15 (M)
