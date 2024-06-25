@@ -1,3 +1,4 @@
+---
 layout: home
 title: Home
 nav_exclude: false
