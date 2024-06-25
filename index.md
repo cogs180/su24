@@ -16,7 +16,7 @@ seo:
 ## Course Information
 
 |-------------|--------|
-| **Instructor** | [Lucy Lai, Ph.D.](https://www.lucylai.com) ([lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu)) |
+| **Instructor** | [Lucy Lai, Ph.D.](https://www.lucy-lai.com) ([lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu)) |
 | **TA**         | Janet Tung ([j5tung@ucsd.edu](mailto:j5tung@ucsd.edu))                |
 | **Dates**      | July 1 - August 3, 2024   |
 | **Lectures**   | M/T/W/Th at 5-6:20pm PDT  |
