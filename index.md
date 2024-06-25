@@ -1,4 +1,4 @@
-![image](https://github.com/cogs180/su24/assets/22282147/b0738e97-23d5-4323-b83e-1ce1bdf5b488)---
+---
 layout: home
 title: Home
 nav_exclude: false
