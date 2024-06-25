@@ -1,4 +1,4 @@
----
+![image](https://github.com/cogs180/su24/assets/22282147/b0738e97-23d5-4323-b83e-1ce1bdf5b488)---
 layout: home
 title: Home
 nav_exclude: false
@@ -13,15 +13,17 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-**Instructor: Professor Lucy Lai, Ph.D.**  ([lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu)) \
-**TA: Janet Tung**  ([j5tung@ucsd.edu](mailto:j5tung@ucsd.edu)) \
-**Lecture: M/W/T/Th 5-6:20PM | Zoom**
 |            |                           |
 |------------|---------------------------|
-| Instructor | Professor Lucy Lai, Ph.D.([lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu)) |
-| TA         | Janet Tung([j5tung@ucsd.edu](mailto:j5tung@ucsd.edu))                |
-| Dates      | July 1 - August 3, 2024   |
-| Lectures   | M/T/W/Th at 5-6:20pm PDT  |
+| **Instructor** | Professor Lucy Lai, Ph.D.([lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu)) |
+| **TA**         | Janet Tung([j5tung@ucsd.edu](mailto:j5tung@ucsd.edu))                |
+| **Dates**      | July 1 - August 3, 2024   |
+| **Lectures**   | M/T/W/Th at 5-6:20pm PDT  |
+| **Discussion**   | T/Th at 1-1:50pm PDT (Optional, but at least 1 required) |
+| **Prerequisites**  | COGS 17 and COGS 108 or 109 (or instructor permission) |
+| **Credits**   | 4.00 |
+| **Website**  | [cogs180.github.io/su24](cogs180.github.io/su24) |
+
 
 Quick Links
 *
