@@ -1,23 +1,34 @@
 ---
-title: Week 5 - Learning to Represent
+title: Week 5 
 ---
-
-Feb 21
-: **No Class -- President's Day**
-
-Feb 23
-:  **LEC 9**{: .label .label-grey } **[Primary Visual Cortex and Convolutional Neural Networks (CNNs)](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=debfe25b-abc3-4790-9d09-ae2b01612400)** 🎥
-    : [Slides](https://canvas.harvard.edu/files/14442916/download?download_frd=1)
+Jul 29 (M)
+: **LEC 16**{: .label .label-grey} **[Lecture 16](./)** 🎥  
+    : [Slides](./)
 : Readings 📖
-: * [The Neuroscience of Vision](https://canvas.harvard.edu/files/14406796/download?download_frd=1)
-: * [Neural Networks and Deep Learning](https://canvas.harvard.edu/files/14406795/download?download_frd=1)
-: * [Interactive CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+: * [Reading 1](https://canvas.ucsd.edu/files/)
+: * [Reading 2](https://canvas.ucsd.edu/files/)
+:  **HW 4 RELEASED**{: .label .label-green } Due XX
+    : [HW2](https://canvas.ucsd.edu/files/)
 
-Feb 25
-:  **PSET 2 DUE @ 11:59PM**{: .label .label-red } 
-    : [Submit PSET 2](https://canvas.harvard.edu/courses/97916/assignments/532855)
+Jul 30 (Tu)
+: **LEC 17**{: .label .label-grey} **[Lecture 17](./)** 🎥  
+    : [Slides](./)
+: Readings 📖
+: * [Reading 1](https://canvas.ucsd.edu/files/)
+: * [Reading 2](https://canvas.ucsd.edu/files/)
 
-Section
-: Discussion: CNNs vs. BNNs, NN models of other brain systems
-: Activity: Edge detection
-: PSET 2 help
+Jul 31  (W)
+: **LEC 18**{: .label .label-grey} **[Lecture 18](./)** 🎥  
+    : [Slides](./)
+: Readings 📖
+: * [Reading 1](https://canvas.ucsd.edu/files/)
+: * [Reading 2](https://canvas.ucsd.edu/files/)
+
+Aug 1 (Th)
+: **LEC 19**{: .label .label-grey} **[Lecture 19](./)** 🎥  
+    : [Slides](./)
+: Readings 📖
+: * [Reading 1](https://canvas.ucsd.edu/files/)
+: * [Reading 2](https://canvas.ucsd.edu/files/)
+:  **HW 4 DUE @ 11:59**{: .label .label-red } 
+    : [Submit HW2](https://canvas.harvard.edu/courses/97916/assignments/532854)
