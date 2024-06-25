@@ -24,6 +24,7 @@ seo:
 | **Prerequisites**  | COGS 17 and COGS 108 or 109 (or instructor permission) |
 | **Credits**   | 4.00 |
 | **Website**  | [cogs180.github.io/su24](cogs180.github.io/su24) |
+|------------|---------------------------|
 
 {% for module in site.modules %}
 {{ module }}
