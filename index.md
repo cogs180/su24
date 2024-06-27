@@ -25,6 +25,8 @@ seo:
 | **Credits**   | 4.00 |
 | **Website**  | [cogs180.github.io/su24](cogs180.github.io/su24) |
 
+See current (tentative) syllabus [here](https://docs.google.com/document/d/1YbU2V1225l-x12fQKUVlMM4-4mK96GNLAb7WUcLVrbA/edit?usp=sharing) 
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
