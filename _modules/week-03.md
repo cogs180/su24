@@ -7,7 +7,7 @@ Jul 15 (M)
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
-:  **HW 3 RELEASED**{: .label .label-green } Due XX
+:  **HW 3 RELEASED**{: .label .label-green } Due 19
     : [HW3](https://canvas.ucsd.edu/files/)
 
 Jul 16 (Tu)
