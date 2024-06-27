@@ -6,17 +6,17 @@ Jul 29 (M)
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
-:  **HW 5 RELEASED**{: .label .label-green }
+:  **HW 5 RELEASED**{: .label .label-green } Due Aug 2
     : [HW5](https://canvas.ucsd.edu/files/)
 
 Jul 30 (Tu)
-: **Student Presentations**{: .label .label-grey} 
+: **Student Presentations**{: .label .label-blue} 
 
 Jul 31  (W)
-: **Student Presentations**{: .label .label-grey} 
+: **Student Presentations**{: .label .label-blue} 
 
 Aug 1 (Th)
-: **Student Presentations**{: .label .label-grey} 
+: **Student Presentations**{: .label .label-blue} 
 
 Aug 2 (F)
 :  **HW 5 DUE**{: .label .label-red } 
