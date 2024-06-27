@@ -29,5 +29,5 @@ Jul 11 (Th)
 : * [Reading 1](https://canvas.ucsd.edu/files/)
 
 Jul 12 (F)
-:  **HW 2 DUE**{: .label .label-red } Due XX
+:  **HW 2 DUE**{: .label .label-red } 
     : [Submit HW2](https://canvas.ucsd.edu/files/)
