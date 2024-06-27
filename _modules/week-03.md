@@ -28,9 +28,6 @@ Jul 18 (Th)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
 
-:  **HW 2 RELEASED**{: .label .label-green } Due XX
-    : [HW2](https://canvas.ucsd.edu/files/)
-
 Jul 19 (F)
-:  **HW 3 DUE**{: .label .label-red } Due XX
+:  **HW 3 DUE**{: .label .label-red }
     : [Submit HW3](https://canvas.ucsd.edu/files/)
