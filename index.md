@@ -21,7 +21,8 @@ seo:
 | **Dates**      | July 1 - August 3, 2024   |
 | **Lectures**   | M/T/W/Th at 5-6:20pm PDT  |
 | **Discussion**   | T/Th at 1-1:50pm PDT (Optional, but at least 1 required) |
-| **Prerequisites**  | COGS 17 and COGS 108 or 109 (or instructor permission) |
+| **Office Hours** | Monday & Wednesday after class until 7pm, or by appointment |
+| **Prerequisites**  | COGS 17 (or instructor permission) |
 | **Credits**   | 4.00 |
 | **Website**  | [cogs180.github.io/su24](cogs180.github.io/su24) |
 
