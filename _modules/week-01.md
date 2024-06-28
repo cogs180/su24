@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 Jul 1 (M)
-: **LEC 1**{: .label .label-grey} **[Course introduction and overview](./)** 🎥  
+: **LEC 1**{: .label .label-black} **[Course introduction and overview](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading](https://canvas.ucsd.edu/files/)
