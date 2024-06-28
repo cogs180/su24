@@ -3,7 +3,7 @@ title: Week 2
 ---
 
 Jul 8 (M)
-: **LEC 3**{: .label .label-grey} **[Lecture 3](./)** 🎥  
+: **LEC 3**{: .label .label-grey} **[Rational choice and expected utility theory](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
@@ -11,19 +11,21 @@ Jul 8 (M)
     : [HW2](https://canvas.ucsd.edu/files/)
 
 Jul 9 (Tu)
-: **LEC 4**{: .label .label-grey} **[Lecture 4](./)** 🎥  
+: **LEC 4**{: .label .label-grey} **[Behavioral economics and prospect theory](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
 
 Jul 10 (W)
-: **LEC 5**{: .label .label-grey} **[Lecture 5](./)** 🎥  
+: **LEC 5**{: .label .label-grey} **[Neural correlates of decisions](./)** 🎥  
     : [Slides](./)
+: **Group presentations begin**{: .label .label-grey} 
+    : [Presentation groups and dates](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
 
 Jul 11 (Th)
-: **LEC 6**{: .label .label-grey} **[Lecture 6](./)** 🎥  
+: **LEC 6**{: .label .label-grey} **[Manipulating decisions in the brain](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
