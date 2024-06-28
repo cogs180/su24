@@ -9,8 +9,8 @@ Jul 1 (M)
 : * [Reading](https://canvas.ucsd.edu/files/)
 :  **HW 1 RELEASED**{: .label .label-green } Due Jul 5
     : [HW1](https://canvas.ucsd.edu/files/)
-:  **Syllabus quiz and learning goals**{: .label .label-green } Due Jul 3
-    : [HW1](https://canvas.ucsd.edu/files/)
+:  **Syllabus quiz and learning goals released**{: .label .label-green} Due Jul 3
+    : [Syllabus quiz and learning goals](https://canvas.ucsd.edu/files/)
 
 Jul 2 (Tu)
 : **LEC 2**{: .label .label-grey} **[Cognitive biases and heuristics](./)** 🎥  
@@ -20,7 +20,7 @@ Jul 2 (Tu)
 
 Jul 3 (W)
 : **NO CLASS TODAY!**{: .label .label-red}
-:  **Syllabus quiz and learning goals DUE**{: .label .label-green } 
+:  **Syllabus quiz and learning goals DUE**{: .label .label-red} 
     : [Submit assignment](https://canvas.ucsd.edu/files/)
 
 Jul 4 (Th)
