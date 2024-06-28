@@ -12,6 +12,7 @@ Jul 29 (M)
 Jul 30 (Tu)
 : **Final Project Presentations**{: .label .label-blue} 
     : [Presentation dates](https://canvas.ucsd.edu/files/)
+
 Jul 31  (W)
 : **Final Project Presentations**{: .label .label-blue} 
 
