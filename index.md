@@ -19,6 +19,7 @@ seo:
 | **Instructor** | [Lucy Lai, Ph.D.](https://www.lucy-lai.com) ([lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu)) |
 | **TA**         | Janet Tung ([j5tung@ucsd.edu](mailto:j5tung@ucsd.edu))                |
 | **Dates**      | July 1 - August 3, 2024   |
+| **Location**   | UC Zoom 😛 (link coming…) |
 | **Lectures**   | M/T/W/Th at 5-6:20pm PDT  |
 | **Discussion**   | T/Th at 1-1:50pm PDT (Optional, but at least 1 required) |
 | **Office Hours** | Monday & Wednesday after class until 7pm, or by appointment |
