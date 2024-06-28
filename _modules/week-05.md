@@ -2,7 +2,7 @@
 title: Week 5 
 ---
 Jul 29 (M)
-: **LEC 15**{: .label .label-grey} **[Lecture 15](./)** 🎥  
+: **LEC 15**{: .label .label-grey} **[Making decisions with AI](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
@@ -10,18 +10,20 @@ Jul 29 (M)
     : [HW5](https://canvas.ucsd.edu/files/)
 
 Jul 30 (Tu)
-: **Student Presentations**{: .label .label-blue} 
-
+: **Final Project Presentations**{: .label .label-blue} 
+    : [Presentation dates](https://canvas.ucsd.edu/files/)
 Jul 31  (W)
-: **Student Presentations**{: .label .label-blue} 
+: **Final Project Presentations**{: .label .label-blue} 
 
 Aug 1 (Th)
-: **Student Presentations**{: .label .label-blue} 
+: **Final Project  Presentations**{: .label .label-blue} 
 
 Aug 2 (F)
 :  **HW 5 DUE**{: .label .label-red } 
     : [Submit HW5](https://canvas.ucsd.edu/)
     
 Aug 3 (S)
-:  **FINAL PROJECT DUE**{: .label .label-red } 
-    : [Submit Final Project](https://canvas.ucsd.edu/)
+:  **FINAL PROJECT PAPER DUE**{: .label .label-red } 
+    : [Submit final project paper](https://canvas.ucsd.edu/)
+:  **Post-course survey DUE**{: .label .label-red } 
+    : [Post-course survey](./)
