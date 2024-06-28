@@ -3,7 +3,7 @@ title: Week 3
 ---
 
 Jul 15 (M)
-: **LEC 7**{: .label .label-grey} **[Lecture 7](./)** 🎥  
+: **LEC 7**{: .label .label-grey} **[Modeling decisions in the brain](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
@@ -11,19 +11,19 @@ Jul 15 (M)
     : [HW3](https://canvas.ucsd.edu/files/)
 
 Jul 16 (Tu)
-: **LEC 8**{: .label .label-grey} **[Lecture 8](./)** 🎥  
+: **LEC 8**{: .label .label-grey} **[Neuroeconomics](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
 
 Jul 17 (W)
-: **LEC 9**{: .label .label-grey} **[Lecture 9](./)** 🎥  
+: **LEC 9**{: .label .label-grey} **[Psychiatry and decision making](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
 
 Jul 18 (Th)
-: **LEC 10**{: .label .label-grey} **[Lecture 10](./)** 🎥  
+: **LEC 10**{: .label .label-grey} **[Computational psychiatry](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
