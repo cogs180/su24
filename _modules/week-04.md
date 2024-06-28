@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 Jul 22 (M)
-: **LEC 11**{: .label .label-grey} **[Lecture 11](./)** 🎥  
+: **LEC 11**{: .label .label-grey} **[Nudging](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
@@ -11,19 +11,19 @@ Jul 22 (M)
     : [HW4](https://canvas.ucsd.edu/files/)
 
 Jul 23 (Tu)
-: **LEC 12**{: .label .label-grey} **[Lecture 12](./)** 🎥  
+: **LEC 12**{: .label .label-grey} **[Human-centered design](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
 
 Jul 24 (W)
-: **LEC 13**{: .label .label-grey} **[Lecture 13](./)** 🎥  
+: **LEC 13**{: .label .label-grey} **[Decision making in the real world](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
 
 Jul 25 (Th)
-: **LEC 14**{: .label .label-grey} **[Lecture 14](./)** 🎥  
+: **LEC 14**{: .label .label-grey} **[Machine learning and decision making](./)** 🎥  
     : [Slides](./)
 : Readings 📖
 : * [Reading 1](https://canvas.ucsd.edu/files/)
