@@ -7,6 +7,8 @@ Jul 1 (M)
     : [Slides](./)
 : Readings 📖
 : * [Reading](https://canvas.ucsd.edu/files/)
+:  **Pre-course survey DUE**{: .label .label-red } 
+    : [Pre-course survey](https://forms.gle/zCcZeH4jAdXhBWb38)
 :  **HW 1 RELEASED**{: .label .label-green } Due Jul 5
     : [HW1](https://canvas.ucsd.edu/files/)
 :  **Syllabus quiz and learning goals released**{: .label .label-green} Due Jul 3
