@@ -10,9 +10,9 @@ Jul 1 (M)
 :  **Pre-course survey DUE**{: .label .label-red } 
     : [Pre-course survey](https://forms.gle/zCcZeH4jAdXhBWb38)
 :  **HW 1 RELEASED**{: .label .label-green } Due Jul 5
-    : [HW1](https://canvas.ucsd.edu/files/)
+    : [HW1](./)
 :  **Syllabus quiz and learning goals released**{: .label .label-green} Due Jul 3
-    : [Syllabus quiz and learning goals](https://canvas.ucsd.edu/files/)
+    : [Syllabus quiz and learning goals](https://docs.google.com/document/d/15WEM-eTtZ5dsCqkJRhrh2NorHSKVZ_tEBvN2wYeEnEY/edit?usp=sharing)
 
 Jul 2 (Tu)
 : **LEC 2**{: .label .label-grey} **[Cognitive biases and heuristics](./)** 🎥  
