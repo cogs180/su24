@@ -3,9 +3,9 @@ title: Week 1
 ---
 
 Jul 1 (M)
-: **LEC 1**{: .label .label-black} **[Course introduction and overview](./)** 🎥  
-    : [Slides](./)
-: If you did not attend the first class and still plan on taking the course, please [email me](mailto: lucylai@g.harvard.edu). The Canvas is not up yet because UCSD has not set me up with an account yet...
+: **LEC 1**{: .label .label-black} **[Course introduction and overview](https://harvard.zoom.us/rec/share/4Nf-WrT2LBceFhi5KWyQPyjbLuRNRqt_NaYfUuUXKS2dSQs5my3w-kQoxAG9P1Gz.mvNh1VX3AFr2ft5z)** 🎥  
+    : [Slides](https://drive.google.com/file/d/1o6YJ3QmdVnQ8MXa0V3S5_0yrAT1s8lUr/view?usp=sharing)
+: If you did not attend the first class (because you had no idea where the link was) and still plan on taking the course, please [email me](mailto: lucylai@g.harvard.edu). The Canvas is not up yet because UCSD has not set me up with an account yet...which is also why I couldn't communicate with some of you (I received a roster about a week ago, but not after that).
 :  **Pre-course survey DUE**{: .label .label-red } 
     : [Pre-course survey](https://forms.gle/zCcZeH4jAdXhBWb38)
 :  **HW 1 RELEASED**{: .label .label-green } Due Jul 5
