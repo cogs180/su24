@@ -5,6 +5,7 @@ title: Week 1
 Jul 1 (M)
 : **LEC 1**{: .label .label-black} **[Course introduction and overview](./)** 🎥  
     : [Slides](./)
+: If you did not attend the first class and still plan on taking the course, please [email me](mailto: lucylai@g.harvard.edu). The Canvas is not up yet because UCSD has not set me up with an account yet...
 :  **Pre-course survey DUE**{: .label .label-red } 
     : [Pre-course survey](https://forms.gle/zCcZeH4jAdXhBWb38)
 :  **HW 1 RELEASED**{: .label .label-green } Due Jul 5
