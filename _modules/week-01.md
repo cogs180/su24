@@ -21,12 +21,12 @@ Jul 2 (Tu)
 
 Jul 3 (W)
 : **NO CLASS TODAY!**{: .label .label-red}
-:  **Syllabus quiz and learning goals DUE**{: .label .label-red} 
+:  **Syllabus quiz and learning goals DUE**{: .label .label-red} I will update the submission link as soon as Canvas gets set up...
     : [Submit assignment](https://canvas.ucsd.edu/files/)
 
 Jul 4 (Th)
 : **NO CLASS TODAY!**{: .label .label-red} Enjoy your July 4th! 🇺🇸
 
 Jul 5 (F)
-:  **HW 1 DUE**{: .label .label-red } 
+:  **HW 1 DUE**{: .label .label-red } I will update the submission link as soon as Canvas gets set up...
     : [Submit HW1](https://canvas.ucsd.edu/files/)
