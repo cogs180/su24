@@ -19,6 +19,7 @@ Jul 2 (Tu)
 : Readings 📖
 : * [Tversky & Kahneman 1974](https://www2.psych.ubc.ca/~schaller/Psyc590Readings/TverskyKahneman1974.pdf)
 : [Presentation groups](https://docs.google.com/document/d/1g3Zp-5wMBO15vbms3VvioJEA2zjRV3nAaSrRCfV_omQ/edit?usp=sharing)
+    : [Submit paper choices](https://forms.gle/b9MgsnbDfZBzDxGe9)
 
 Jul 3 (W)
 : **NO CLASS TODAY!**{: .label .label-red}
@@ -31,3 +32,5 @@ Jul 4 (Th)
 Jul 5 (F)
 :  **HW 1 DUE**{: .label .label-red } Submit to this Google Form for now
     : [Submit HW1](https://forms.gle/iEdxjxdsRtskkbJF7)
+:  **SUBMIT GROUP PRESENTATION PAPER**{: .label .label-red } Submit your top 2 paper choices here!
+    : [Submit paper choice](https://forms.gle/b9MgsnbDfZBzDxGe9)
