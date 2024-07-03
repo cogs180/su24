@@ -14,7 +14,7 @@ Jul 1 (M)
     : [Syllabus quiz and learning goals](https://docs.google.com/document/d/15WEM-eTtZ5dsCqkJRhrh2NorHSKVZ_tEBvN2wYeEnEY/edit?usp=sharing)
 
 Jul 2 (Tu)
-: **LEC 2**{: .label .label-grey} **[Cognitive biases and heuristics](./)** 🎥  
+: **LEC 2**{: .label .label-grey} **[Cognitive biases and heuristics](https://harvard.zoom.us/rec/share/u1iC6Ccn8oGmDca7udQn34-EUgAZ7URjQepapgJLhADBtEVaIjB1-JBeFvwxKTke.7ulWCk3C7qJ1lyl4?startTime=1719965346000)** 🎥  
     : [Slides](https://drive.google.com/file/d/1o6s_iRvNx0IPdtOgthINQBIXGxnJI8Ry/view?usp=sharing)
 : Readings 📖
 : * [Tversky & Kahneman 1974](https://www2.psych.ubc.ca/~schaller/Psyc590Readings/TverskyKahneman1974.pdf)
