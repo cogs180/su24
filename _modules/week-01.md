@@ -15,9 +15,10 @@ Jul 1 (M)
 
 Jul 2 (Tu)
 : **LEC 2**{: .label .label-grey} **[Cognitive biases and heuristics](./)** 🎥  
-    : [Slides](./)
+    : [Slides](https://drive.google.com/file/d/1o6s_iRvNx0IPdtOgthINQBIXGxnJI8Ry/view?usp=sharing)
 : Readings 📖
 : * [Tversky & Kahneman 1974](https://www2.psych.ubc.ca/~schaller/Psyc590Readings/TverskyKahneman1974.pdf)
+: [Presentation group assignments](https://docs.google.com/document/d/1g3Zp-5wMBO15vbms3VvioJEA2zjRV3nAaSrRCfV_omQ/edit?usp=sharing)
 
 Jul 3 (W)
 : **NO CLASS TODAY!**{: .label .label-red}
