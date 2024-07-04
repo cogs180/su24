@@ -23,8 +23,8 @@ Jul 2 (Tu)
 
 Jul 3 (W)
 : **NO CLASS TODAY!**{: .label .label-red}
-:  **Syllabus quiz and learning goals DUE**{: .label .label-red} Submit to this Google Form for now
-    : [Submit assignment](https://forms.gle/Ri5yr5dEqGdQeVu99)
+:  **Syllabus quiz and learning goals DUE**{: .label .label-red} Submit to this Canvas link!
+    : [Submit assignment](https://canvas.ucsd.edu/courses/57867/assignments/820138)
 
 Jul 4 (Th)
 : **NO CLASS TODAY!**{: .label .label-red} Enjoy your July 4th! 🇺🇸
