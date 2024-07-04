@@ -30,7 +30,7 @@ Jul 4 (Th)
 : **NO CLASS TODAY!**{: .label .label-red} Enjoy your July 4th! 🇺🇸
 
 Jul 5 (F)
-:  **HW 1 DUE**{: .label .label-red } Submit to this Google Form for now
-    : [Submit HW1](https://forms.gle/iEdxjxdsRtskkbJF7)
+:  **HW 1 DUE**{: .label .label-red } Submit homework on this Canvas link!
+    : [Submit HW1](https://canvas.ucsd.edu/courses/57867/assignments/820134)
 :  **SUBMIT GROUP PRESENTATION PAPER**{: .label .label-red } Submit your top 2 paper choices here!
     : [Submit paper choice](https://forms.gle/b9MgsnbDfZBzDxGe9)
