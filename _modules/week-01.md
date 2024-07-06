@@ -18,7 +18,7 @@ Jul 2 (Tu)
     : [Slides](https://drive.google.com/file/d/1o6s_iRvNx0IPdtOgthINQBIXGxnJI8Ry/view?usp=sharing)
 : Readings 📖
 : * [Tversky & Kahneman 1974](https://www2.psych.ubc.ca/~schaller/Psyc590Readings/TverskyKahneman1974.pdf)
-: [Presentation groups](https://docs.google.com/document/d/1g3Zp-5wMBO15vbms3VvioJEA2zjRV3nAaSrRCfV_omQ/edit?usp=sharing)
+: [Group presentation assignment](https://docs.google.com/document/d/1g3Zp-5wMBO15vbms3VvioJEA2zjRV3nAaSrRCfV_omQ/edit?usp=sharing)
     : [Submit paper choices](https://forms.gle/b9MgsnbDfZBzDxGe9)
 
 Jul 3 (W)
