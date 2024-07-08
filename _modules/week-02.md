@@ -8,7 +8,7 @@ Jul 8 (M)
 : Readings 📖
 : * 
 :  **HW 2 RELEASED**{: .label .label-green } Due Jul 12
-    : [HW2](https://canvas.ucsd.edu/files/)
+    : [HW2](https://docs.google.com/document/d/1Q04RM6qTnUx7EipSmGBIu6mHeiLX_q0u2m90mUAGepg/edit?usp=sharing)
 :  **SUBMIT GROUP PRESENTATION PAPER**{: .label .label-red } If you haven't already, please submit your top 2 paper choices here!
     : [Submit paper choice](https://forms.gle/b9MgsnbDfZBzDxGe9)
 
