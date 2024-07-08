@@ -4,7 +4,7 @@ title: Week 1
 
 Jul 1 (M)
 : **LEC 1**{: .label .label-black} **[Course introduction and overview](https://harvard.zoom.us/rec/share/4Nf-WrT2LBceFhi5KWyQPyjbLuRNRqt_NaYfUuUXKS2dSQs5my3w-kQoxAG9P1Gz.mvNh1VX3AFr2ft5z)** 🎥  
-    : [Slides](https://drive.google.com/file/d/1o6YJ3QmdVnQ8MXa0V3S5_0yrAT1s8lUr/view?usp=sharing)
+    : [Slides](https://canvas.ucsd.edu/files/12799593/download?download_frd=1)
 : If you did not attend the first two classes and still plan on taking the course, please [email me](mailto: lucylai@g.harvard.edu). The Canvas was not set up yet...which is also why I couldn't communicate with some of you (I received a roster about a week ago, but not after that).
 :  **Pre-course survey DUE**{: .label .label-red } 
     : [Pre-course survey](https://forms.gle/zCcZeH4jAdXhBWb38)
@@ -15,7 +15,7 @@ Jul 1 (M)
 
 Jul 2 (Tu)
 : **LEC 2**{: .label .label-grey} **[Cognitive biases and heuristics](https://harvard.zoom.us/rec/share/u1iC6Ccn8oGmDca7udQn34-EUgAZ7URjQepapgJLhADBtEVaIjB1-JBeFvwxKTke.7ulWCk3C7qJ1lyl4?startTime=1719965346000)** 🎥  
-    : [Slides](https://drive.google.com/file/d/1o6s_iRvNx0IPdtOgthINQBIXGxnJI8Ry/view?usp=sharing)
+    : [Slides](https://canvas.ucsd.edu/files/12799594/download?download_frd=1)
 : Readings 📖
 : * [Tversky & Kahneman 1974](https://www2.psych.ubc.ca/~schaller/Psyc590Readings/TverskyKahneman1974.pdf)
 : [Group presentation assignment](https://docs.google.com/document/d/1g3Zp-5wMBO15vbms3VvioJEA2zjRV3nAaSrRCfV_omQ/edit?usp=sharing)
