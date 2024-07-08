@@ -3,33 +3,35 @@ title: Week 2
 ---
 
 Jul 8 (M)
-: **LEC 3**{: .label .label-grey} **[Rational choice and expected utility theory](./)** 🎥  
-    : [Slides](./)
+: **LEC 3**{: .label .label-grey} **[Expected utility theory and rational choice]** 🎥  
+    : [Slides](https://canvas.ucsd.edu/files/12802695/download?download_frd=1)
 : Readings 📖
-: * [Reading 1](https://canvas.ucsd.edu/files/)
+: * 
 :  **HW 2 RELEASED**{: .label .label-green } Due Jul 12
     : [HW2](https://canvas.ucsd.edu/files/)
+:  **SUBMIT GROUP PRESENTATION PAPER**{: .label .label-red } If you haven't already, please submit your top 2 paper choices here!
+    : [Submit paper choice](https://forms.gle/b9MgsnbDfZBzDxGe9)
 
 Jul 9 (Tu)
-: **LEC 4**{: .label .label-grey} **[Behavioral economics and prospect theory](./)** 🎥  
-    : [Slides](./)
+: **LEC 4**{: .label .label-grey} **[Prospect theory and behavioral economics]** 🎥  
+    : [Slides]
 : Readings 📖
-: * [Reading 1](https://canvas.ucsd.edu/files/)
+: * 
 
 Jul 10 (W)
-: **LEC 5**{: .label .label-grey} **[Neural correlates of decisions](./)** 🎥  
-    : [Slides](./)
+: **LEC 5**{: .label .label-grey} **[Neural correlates of decisions]** 🎥  
+    : [Slides]
 : **Group presentations begin**{: .label .label-grey} 
     : [Presentation groups and dates](./)
 : Readings 📖
-: * [Reading 1](https://canvas.ucsd.edu/files/)
+: * 
 
 Jul 11 (Th)
-: **LEC 6**{: .label .label-grey} **[Manipulating decisions in the brain](./)** 🎥  
-    : [Slides](./)
+: **LEC 6**{: .label .label-grey} **[Manipulating decisions in the brain]** 🎥  
+    : [Slides]
 : Readings 📖
-: * [Reading 1](https://canvas.ucsd.edu/files/)
+: * [Insensitivity to future consequences following damage to human prefrontal cortex](https://canvas.ucsd.edu/files/12799596/download?download_frd=1)
 
 Jul 12 (F)
-:  **HW 2 DUE**{: .label .label-red } 
-    : [Submit HW2](https://canvas.ucsd.edu/files/)
+:  **HW 2 DUE**{: .label .label-red } at 11:59pm anywhere in the world
+    : [Submit HW2](https://canvas.ucsd.edu/courses/57867/assignments/820351)
