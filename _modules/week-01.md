@@ -5,7 +5,6 @@ title: Week 1
 Jul 1 (M)
 : **LEC 1**{: .label .label-black} **[Course introduction and overview](https://harvard.zoom.us/rec/share/4Nf-WrT2LBceFhi5KWyQPyjbLuRNRqt_NaYfUuUXKS2dSQs5my3w-kQoxAG9P1Gz.mvNh1VX3AFr2ft5z)** 🎥  
     : [Slides](https://canvas.ucsd.edu/files/12799593/download?download_frd=1)
-: If you did not attend the first two classes and still plan on taking the course, please [email me](mailto: lucylai@g.harvard.edu). The Canvas was not set up yet...which is also why I couldn't communicate with some of you (I received a roster about a week ago, but not after that).
 :  **Pre-course survey DUE**{: .label .label-red } 
     : [Pre-course survey](https://forms.gle/zCcZeH4jAdXhBWb38)
 :  **HW 1 RELEASED**{: .label .label-green } Due Jul 5
@@ -14,10 +13,10 @@ Jul 1 (M)
     : [Syllabus quiz and learning goals](https://docs.google.com/document/d/15WEM-eTtZ5dsCqkJRhrh2NorHSKVZ_tEBvN2wYeEnEY/edit?usp=sharing)
 
 Jul 2 (Tu)
-: **LEC 2**{: .label .label-grey} **[Cognitive biases and heuristics](https://harvard.zoom.us/rec/share/u1iC6Ccn8oGmDca7udQn34-EUgAZ7URjQepapgJLhADBtEVaIjB1-JBeFvwxKTke.7ulWCk3C7qJ1lyl4?startTime=1719965346000)** 🎥  
+: **LEC 2**{: .label .label-grey} **[Cognitive biases and heuristics](https://harvard.zoom.us/rec/share/u1iC6Ccn8oGmDca7udQn34-EUgAZ7URjQepapgJLhADBtEVaIjB1-JBeFvwxKTke.7ulWCk3C7qJ1lyl4?startTime=1719965346000)** 🎥 
     : [Slides](https://canvas.ucsd.edu/files/12799594/download?download_frd=1)
 : Readings 📖
-: * [Tversky & Kahneman 1974](https://www2.psych.ubc.ca/~schaller/Psyc590Readings/TverskyKahneman1974.pdf)
+: * [Judgment under uncertainty: heuristics and biases](https://canvas.ucsd.edu/files/12805151/download?download_frd=1)
 : [Group presentation assignment](https://docs.google.com/document/d/1g3Zp-5wMBO15vbms3VvioJEA2zjRV3nAaSrRCfV_omQ/edit?usp=sharing)
     : [Submit paper choices](https://forms.gle/b9MgsnbDfZBzDxGe9)
 
