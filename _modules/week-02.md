@@ -4,7 +4,7 @@ title: Week 2
 
 Jul 8 (M)
 : **LEC 3**{: .label .label-grey} **[Expected utility theory and rational choice]** 🎥  
-    : [Slides](https://canvas.ucsd.edu/files/12802695/download?download_frd=1)
+    : [Slides](https://canvas.ucsd.edu/files/12805065/download?download_frd=1)
 : Readings 📖
 : * 
 :  **HW 2 RELEASED**{: .label .label-green } Due Jul 12
