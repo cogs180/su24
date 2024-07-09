@@ -4,7 +4,7 @@ title: Week 2
 
 Jul 8 (M)
 : **LEC 3**{: .label .label-grey} **[Expected utility theory and rational choice](https://ucsd.zoom.us/rec/share/zulZl84hUtfD8oSkuF18vKUh4-qkmthaHocAwfMb55F4lPZqulTixRp9nQdYAZuj.NGwrqpFw5kMrzJhE)** 🎥  
-    : [Slides](https://canvas.ucsd.edu/files/12805065/download?download_frd=1)
+    : [Slides](https://canvas.ucsd.edu/files/12805989/download?download_frd=1)
 : Readings 📖
 : * [The expected utility model: its variants, purposes, evidence and limitations](https://canvas.ucsd.edu/files/12805155/download?download_frd=1)
 : * [A critique of expected utility theory: descriptive and normative considerations](https://canvas.ucsd.edu/files/12805153/download?download_frd=1)
@@ -15,7 +15,7 @@ Jul 8 (M)
 
 Jul 9 (Tu)
 : **LEC 4**{: .label .label-grey} **[Prospect theory and behavioral economics]** 🎥  
-    : [Slides]
+    : [Slides](https://canvas.ucsd.edu/files/12805988/download?download_frd=1)
 : Readings 📖
 : * [Prospect theory: an analysis of decision under risk](https://canvas.ucsd.edu/files/12805147/download?download_frd=1)
 : * [Excerpt from _Thinking Fast and Slow_](https://canvas.ucsd.edu/files/12805210/download?download_frd=1)
