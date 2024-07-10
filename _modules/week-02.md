@@ -22,7 +22,7 @@ Jul 9 (Tu)
 
 Jul 10 (W)
 : **LEC 5**{: .label .label-grey} **[Neural correlates of decisions]** 🎥  
-    : [Slides]
+    : [Slides](https://canvas.ucsd.edu/files/12808409/download?download_frd=1)
 : Readings 📖
 : * [The neural basis of decision making](https://canvas.ucsd.edu/files/12805214/download?download_frd=1)
 
