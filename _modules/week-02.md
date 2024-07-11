@@ -27,11 +27,12 @@ Jul 10 (W)
 : * [The neural basis of decision making](https://canvas.ucsd.edu/files/12805214/download?download_frd=1)
 
 Jul 11 (Th)
-: **LEC 6**{: .label .label-grey} **[Manipulating decisions in the brain]** 🎥  
+: **LEC 6**{: .label .label-grey} **[Neuroeconomics]** 🎥  
     : [Slides]
 : Readings 📖
-: * [Insensitivity to future consequences following damage to human prefrontal cortex](https://canvas.ucsd.edu/files/12799596/download?download_frd=1)
-: * [Balancing risk-return decisions by manipulating the mesofrontal circuits in primates](https://canvas.ucsd.edu/files/12805248/download?download_frd=1)
+: * Group presentation paper: [Insensitivity to future consequences following damage to human prefrontal cortex](https://canvas.ucsd.edu/files/12799596/download?download_frd=1)
+: * [A framework for studying the neurobiology of value-based decision making](https://canvas.ucsd.edu/files/12810641/download?download_frd=1)
+
 : **Group presentations begin**{: .label .label-grey} 
     : [Presentation groups and dates](https://docs.google.com/document/d/1g3Zp-5wMBO15vbms3VvioJEA2zjRV3nAaSrRCfV_omQ/edit?usp=sharing)
 
