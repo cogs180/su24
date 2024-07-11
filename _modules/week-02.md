@@ -14,14 +14,14 @@ Jul 8 (M)
     : [Submit paper choice](https://forms.gle/b9MgsnbDfZBzDxGe9)
 
 Jul 9 (Tu)
-: **LEC 4**{: .label .label-grey} **[Prospect theory and behavioral economics]** 🎥  
+: **LEC 4**{: .label .label-grey} **[Prospect theory and behavioral economics](https://ucsd.zoom.us/rec/share/meZU13IydTUZMOU4gpvuUhICpg8cv4wFNLdFdjh5OhiKZCwPOrJiBYG6abjheigz._a4I1l0ZHqi8I4Ug)** 🎥  
     : [Slides](https://canvas.ucsd.edu/files/12805988/download?download_frd=1)
 : Readings 📖
 : * [Prospect theory: an analysis of decision under risk](https://canvas.ucsd.edu/files/12805147/download?download_frd=1)
 : * [Excerpt from _Thinking Fast and Slow_](https://canvas.ucsd.edu/files/12805210/download?download_frd=1)
 
 Jul 10 (W)
-: **LEC 5**{: .label .label-grey} **[Neural correlates of decisions]** 🎥  
+: **LEC 5**{: .label .label-grey} **[Neural correlates of decisions](https://ucsd.zoom.us/rec/share/V4_MjY8PBm6aTWXxuaB4FBL3YjcIJq4XBUZLL8LOTWo4sbYVaDiX4cdlfH0tuhhD.eVtYZ_y081_U7aER)** 🎥  
     : [Slides](https://canvas.ucsd.edu/files/12808409/download?download_frd=1)
 : Readings 📖
 : * [The neural basis of decision making](https://canvas.ucsd.edu/files/12805214/download?download_frd=1)
