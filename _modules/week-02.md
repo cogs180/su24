@@ -29,7 +29,7 @@ Jul 10 (W)
 
 Jul 11 (Th)
 : **LEC 6**{: .label .label-grey} **[Neuroeconomics & delay discounting]** 🎥  
-    : [Slides]
+    : [Slides](https://canvas.ucsd.edu/files/12812663/download?download_frd=1)
 : Readings 📖
 : * Group presentation paper: [Insensitivity to future consequences following damage to human prefrontal cortex](https://canvas.ucsd.edu/files/12799596/download?download_frd=1)
 : * [The Neural Basis of Loss Aversion in Decision-Making Under Risk](https://canvas.ucsd.edu/files/12810740/download?download_frd=1)
