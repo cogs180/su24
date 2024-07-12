@@ -28,12 +28,10 @@ Jul 10 (W)
 : * [A framework for studying the neurobiology of value-based decision making](https://canvas.ucsd.edu/files/12810641/download?download_frd=1)
 
 Jul 11 (Th)
-: **LEC 6**{: .label .label-grey} **[Neuroeconomics & delay discounting]** 🎥  
-    : [Slides](https://canvas.ucsd.edu/files/12812663/download?download_frd=1)
+: **LEC 6**{: .label .label-grey} **[Neuroeconomics & delay discounting](https://ucsd.zoom.us/rec/share/mpEnvmkrVVN1XLF5R0zAHMJPT-vtj_WLuahAvqJ4jHQ-vYSmt4td5IPGBNGd_KvG.9nDD37K0ogqBYDBE)** 🎥  
+    : [Slides](https://canvas.ucsd.edu/files/12812920/download?download_frd=1)
 : Readings 📖
 : * Group presentation paper: [Insensitivity to future consequences following damage to human prefrontal cortex](https://canvas.ucsd.edu/files/12799596/download?download_frd=1)
-: * [The Neural Basis of Loss Aversion in Decision-Making Under Risk](https://canvas.ucsd.edu/files/12810740/download?download_frd=1)
-: * [The Neural Basis of Financial Risk Taking](https://canvas.ucsd.edu/files/12810743/download?download_frd=1)
 : * [Optogenetic Activation of Dorsal Raphe Serotonin Neurons Enhances Patience for Future Rewards](https://canvas.ucsd.edu/files/12810953/download?download_frd=1)
 : * [Dopamine, Time, and Impulsivity in Humans](https://canvas.ucsd.edu/files/12810951/download?download_frd=1)
 
