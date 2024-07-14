@@ -2,19 +2,19 @@
 title: Week 5 
 ---
 Jul 29 (M)
-: **LEC 15**{: .label .label-grey} **[Last 2 group presentations]** 🎥  
+: **LEC 15**{: .label .label-grey} 
     : [Slides]
 :  **HW 5 RELEASED**{: .label .label-green } Due Aug 4
     : [HW5]
 
-Jul 30 (Tu) **[Final presentations 1]** 🎥  
+Jul 30 (Tu) 
 : **Final Project Presentations**{: .label .label-blue} 
     : [Presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
 
-Jul 31  (W) **[Final presentations 2]** 🎥  
+Jul 31  (W)
 : **Final Project Presentations**{: .label .label-blue} 
 
-Aug 1 (Th) **[Final presentations 3...and final thoughts]** 🎥  
+Aug 1 (Th) 
 : **Final Project Presentations**{: .label .label-blue} 
     
 Aug 3 (Sa)
