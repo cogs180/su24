@@ -11,7 +11,7 @@ Jul 15 (M)
 : * [Perceptual decision making: drift-diffusion model is equivalent to a Bayesian model](https://canvas.ucsd.edu/files/12817288/download?download_frd=1) (Link between DDMs and Bayesian Decision Theory...for the mathematically inclined)
 : * Group presentation paper: [Dissociation of working memory from decision making within the human prefrontal cortex](https://canvas.ucsd.edu/files/12810486/download?download_frd=1)
 :  **HW 3 RELEASED**{: .label .label-green } Due Jul 19
-    : [HW3]
+    : [HW3](https://docs.google.com/document/d/11c4qeD0fr4zaN2vSTOceWgwYz10FORyffznSW02n1-E/edit?usp=sharing)
 :  **FINAL PROJECT RELEASED**{: .label .label-green } Due Aug 3
     : [Final project assignment](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
 
