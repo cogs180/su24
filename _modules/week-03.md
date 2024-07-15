@@ -20,6 +20,7 @@ Jul 16 (Tu)
     : [Slides]
 : Readings 📖
 : * [Reinforcement learning in the brain](https://canvas.ucsd.edu/files/12817289/download?download_frd=1)
+: * [A Neural Substrate of Prediction and Reward](https://canvas.ucsd.edu/files/12818324/download?download_frd=1)
 : * Group presentation paper: [Matching behavior and the representation of value in the parietal cortex](https://canvas.ucsd.edu/files/12810489/download?download_frd=1)
 
 Jul 17 (W)
