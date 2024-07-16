@@ -16,8 +16,8 @@ Jul 15 (M)
     : [Final project assignment](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
 
 Jul 16 (Tu)
-: **LEC 8**{: .label .label-grey} **[Learning from our mistakes: Reinforcement learning and dopamine]** 🎥  
-    : [Slides]
+: **LEC 8**{: .label .label-grey} **[Reinforcement learning and dopamine]** 🎥  
+    : [Slides](https://canvas.ucsd.edu/files/12823661/download?download_frd=1)
 : Readings 📖
 : * [Reinforcement learning in the brain](https://canvas.ucsd.edu/files/12817289/download?download_frd=1)
 : * [A Neural Substrate of Prediction and Reward](https://canvas.ucsd.edu/files/12818324/download?download_frd=1)
