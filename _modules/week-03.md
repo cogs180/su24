@@ -17,7 +17,7 @@ Jul 15 (M)
 
 Jul 16 (Tu)
 : **LEC 8**{: .label .label-grey} **[Reinforcement learning and dopamine]** 🎥  
-    : [Slides](https://canvas.ucsd.edu/files/12823661/download?download_frd=1)
+    : [Slides](https://canvas.ucsd.edu/files/12825337/download?download_frd=1)
 : Readings 📖
 : * [Reinforcement learning in the brain](https://canvas.ucsd.edu/files/12817289/download?download_frd=1)
 : * [A Neural Substrate of Prediction and Reward](https://canvas.ucsd.edu/files/12818324/download?download_frd=1)
