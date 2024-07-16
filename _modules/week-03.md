@@ -3,7 +3,7 @@ title: Week 3
 ---
 
 Jul 15 (M)
-: **LEC 7**{: .label .label-grey} **[Noisy decision making: Drift diffusion model & Bayesian decision theory]** 🎥  
+: **LEC 7**{: .label .label-grey} **[Noisy decision making: Drift diffusion model & Bayesian decision theory](https://ucsd.zoom.us/rec/share/GXedO3FmBnxpOe9-KfK3OpPOs6Eo-9OYx4dENlk4SCiecBGKjxFoiGoEunOEXFZt.q1uvvugVZN1y4Ha3)** 🎥  
     : [Slides](https://canvas.ucsd.edu/files/12821371/download?download_frd=1)
 : Readings 📖
 : * [Psychology and neurobiology of simple decisions](https://canvas.ucsd.edu/files/12817294/download?download_frd=1)
