@@ -29,6 +29,7 @@ Jul 17 (W)
     : [Slides](https://canvas.ucsd.edu/files/12827137/download?download_frd=1)
 : Readings 📖
 : * [Neurobiology of Decision Making: A Selective Review from a Neurocognitive and Clinical Perspective](https://canvas.ucsd.edu/files/12817291/download?download_frd=1)
+: * [Addiction as a computational process gone awry](https://canvas.ucsd.edu/files/12817296/download?download_frd=1)
 : * Group presentation paper: [Impulsivity and Response Inhibition Related Brain Networks in Adolescents With Internet Gaming Disorder](https://canvas.ucsd.edu/files/12810487/download?download_frd=1)
 
 Jul 18 (Th)
@@ -36,7 +37,6 @@ Jul 18 (Th)
     : [Slides]
 : Readings 📖
 : * [Computational Psychiatry: towards a mathematically informed understanding of mental illness](https://canvas.ucsd.edu/files/12817292/download?download_frd=1)
-: * [Addiction as a computational process gone awry](https://canvas.ucsd.edu/files/12817296/download?download_frd=1)
 : * Group presentation paper: [Disruption in the Balance Between Goal-Directed Behavior and Habit Learning in Obsessive-Compulsive Disorder](https://canvas.ucsd.edu/files/12810488/download?download_frd=1)
 
 Jul 19 (F)
