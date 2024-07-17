@@ -18,7 +18,7 @@ Jul 15 (M)
 Jul 16 (Tu)
 : **LEC 8**{: .label .label-grey} **[Reinforcement learning and dopamine](https://ucsd.zoom.us/rec/share/CNNerVbcEu8zHSrUq9jdetv0lnKEV7hXBl3p338KljzuTuS8qUYx3Ubi5_f8Fvgj.x80ZNurv6SYQGBN8?startTime=1721174700000)** 🎥  
     : [Slides](https://canvas.ucsd.edu/files/12825337/download?download_frd=1)
-: [TD example: Schultz 1997 worked out step-by-step](https://youtu.be/qIjEKWftu0A?si=8TT6z0qMYZYOIo-c&t=1317)🎥 Work out this example yourself by following the slides to better understand the TD algorithm!
+: [TD example: Schultz 1997 worked out step-by-step](https://youtu.be/qIjEKWftu0A?si=8TT6z0qMYZYOIo-c&t=1317) 🎥 Work out this example yourself by following the slides to better understand the TD algorithm!
 : Readings 📖
 : * [Reinforcement learning in the brain](https://canvas.ucsd.edu/files/12817289/download?download_frd=1)
 : * [A Neural Substrate of Prediction and Reward](https://canvas.ucsd.edu/files/12818324/download?download_frd=1)
