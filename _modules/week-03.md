@@ -16,7 +16,7 @@ Jul 15 (M)
     : [Final project assignment](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
 
 Jul 16 (Tu)
-: **LEC 8**{: .label .label-grey} **[Reinforcement learning and dopamine]** 🎥  
+: **LEC 8**{: .label .label-grey} **[Reinforcement learning and dopamine](https://ucsd.zoom.us/rec/share/CNNerVbcEu8zHSrUq9jdetv0lnKEV7hXBl3p338KljzuTuS8qUYx3Ubi5_f8Fvgj.x80ZNurv6SYQGBN8?startTime=1721174700000)** 🎥  
     : [Slides](https://canvas.ucsd.edu/files/12825337/download?download_frd=1)
 : Readings 📖
 : * [Reinforcement learning in the brain](https://canvas.ucsd.edu/files/12817289/download?download_frd=1)
