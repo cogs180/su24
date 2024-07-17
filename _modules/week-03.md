@@ -25,8 +25,8 @@ Jul 16 (Tu)
 : * Group presentation paper: [Matching behavior and the representation of value in the parietal cortex](https://canvas.ucsd.edu/files/12810489/download?download_frd=1)
 
 Jul 17 (W)
-: **LEC 9**{: .label .label-grey} **[Disorders of decision making]** 🎥  
-    : [Slides]
+: **LEC 9**{: .label .label-grey} **[Disorders of decision making: addiction]** 🎥  
+    : [Slides](https://canvas.ucsd.edu/files/12827137/download?download_frd=1)
 : Readings 📖
 : * [Neurobiology of Decision Making: A Selective Review from a Neurocognitive and Clinical Perspective](https://canvas.ucsd.edu/files/12817291/download?download_frd=1)
 : * Group presentation paper: [Impulsivity and Response Inhibition Related Brain Networks in Adolescents With Internet Gaming Disorder](https://canvas.ucsd.edu/files/12810487/download?download_frd=1)
