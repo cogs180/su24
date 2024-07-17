@@ -22,6 +22,7 @@ Jul 16 (Tu)
 : * [Reinforcement learning in the brain](https://canvas.ucsd.edu/files/12817289/download?download_frd=1)
 : * [A Neural Substrate of Prediction and Reward](https://canvas.ucsd.edu/files/12818324/download?download_frd=1)
 : * Group presentation paper: [Matching behavior and the representation of value in the parietal cortex](https://canvas.ucsd.edu/files/12810489/download?download_frd=1)
+: [TD example: Schultz 1997 worked out setp-by-step](https://youtu.be/qIjEKWftu0A?si=8TT6z0qMYZYOIo-c&t=1317)
 
 Jul 17 (W)
 : **LEC 9**{: .label .label-grey} **[Disorders of decision making]** 🎥  
