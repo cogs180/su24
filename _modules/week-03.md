@@ -34,7 +34,7 @@ Jul 17 (W)
 
 Jul 18 (Th)
 : **LEC 10**{: .label .label-grey} **[Computational psychiatry]** 🎥  
-    : [Slides]
+    : [Slides](https://canvas.ucsd.edu/files/12830661/download?download_frd=1)
 : Readings 📖
 : * [Computational Psychiatry: towards a mathematically informed understanding of mental illness](https://canvas.ucsd.edu/files/12817292/download?download_frd=1)
 : * Group presentation paper: [Disruption in the Balance Between Goal-Directed Behavior and Habit Learning in Obsessive-Compulsive Disorder](https://canvas.ucsd.edu/files/12810488/download?download_frd=1)
