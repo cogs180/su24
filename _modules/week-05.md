@@ -2,8 +2,7 @@
 title: Week 5 
 ---
 Jul 29 (M)
-: **LEC 15**{: .label .label-grey} 
-    : [Slides]
+: **Final Group Presentations**{: .label .label-blue} 
 :  **HW 5 RELEASED**{: .label .label-green } Due Aug 4
     : [HW5]
 
