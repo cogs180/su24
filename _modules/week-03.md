@@ -26,7 +26,7 @@ Jul 16 (Tu)
 
 Jul 17 (W)
 : **LEC 9**{: .label .label-grey} **[Disorders of decision making: addiction]** 🎥  
-    : [Slides](https://canvas.ucsd.edu/files/12827137/download?download_frd=1)
+    : [Slides](https://canvas.ucsd.edu/files/12829455/download?download_frd=1)
 : Readings 📖
 : * [Neurobiology of Decision Making: A Selective Review from a Neurocognitive and Clinical Perspective](https://canvas.ucsd.edu/files/12817291/download?download_frd=1)
 : * [Addiction as a computational process gone awry](https://canvas.ucsd.edu/files/12817296/download?download_frd=1)
