@@ -33,7 +33,7 @@ Jul 17 (W)
 : * Group presentation paper: [Impulsivity and Response Inhibition Related Brain Networks in Adolescents With Internet Gaming Disorder](https://canvas.ucsd.edu/files/12810487/download?download_frd=1)
 
 Jul 18 (Th)
-: **LEC 10**{: .label .label-grey} **[Computational psychiatry]** 🎥  
+: **LEC 10**{: .label .label-grey} **[Computational psychiatry](https://ucsd.zoom.us/rec/share/BtZS1M5MiaLDTaNcai-shU3pxXk-mO7MT0Vpumq09TairEGGocdo0KOYk3Iy_Y-d.gzb7iR_q4a49yMWQ?startTime=1721346982000)** 🎥  
     : [Slides](https://canvas.ucsd.edu/files/12830661/download?download_frd=1)
 : Readings 📖
 : * [Computational Psychiatry: towards a mathematically informed understanding of mental illness](https://canvas.ucsd.edu/files/12817292/download?download_frd=1)
