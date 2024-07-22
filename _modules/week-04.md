@@ -34,7 +34,7 @@ Jul 25 (Th)
 : * [Beyond Accuracy: The Role of Mental Models in Human-AI Team Performance](https://canvas.ucsd.edu/files/12836360/download?download_frd=1)
 : * [Towards a Science of Human-AI Decision Making: An Overview of Design Space in Empirical Human-Subject Studies](https://canvas.ucsd.edu/files/12836370/download?download_frd=1)
 : * [People are averse to machines making moral decisions](https://canvas.ucsd.edu/files/12836361/download?download_frd=1)
-: Decision making resources for your own life!
+: Decision making resources for your own life! 🤔
 : * [80,000 Hours Career Decision Tool](https://80000hours.org/career-decision/)
 : * [Clearer Thinking Tools](https://www.clearerthinking.org/tools)
 : * [Clearer Thinking Decision Adviser](https://programs.clearerthinking.org/decisionmaker.html)
