@@ -10,7 +10,7 @@ Jul 22 (M)
 : * [The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains](https://canvas.ucsd.edu/files/12836357/download?download_frd=1)
 : * [No evidence for nudging after adjusting for publication bias](https://canvas.ucsd.edu/files/12836362/download?download_frd=1)
 :  **HW 4 RELEASED**{: .label .label-green } Due 26
-    : [HW4]
+    : [HW4](https://docs.google.com/document/d/1Up9ibS0XMuEIN9fjyDJiBMp6RMgBkymyEFj0ylbAwgE/edit?usp=sharing)
 
 Jul 23 (Tu)
 : **LEC 12**{: .label .label-grey} **[Human-centered design and computing]** 🎥  
