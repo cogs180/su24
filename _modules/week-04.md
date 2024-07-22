@@ -17,6 +17,7 @@ Jul 23 (Tu)
     : [Slides]
 : Readings 📖
 : * [Human-Centered Design Meets Cognitive Load Theory: Designing Interfaces that Help People Think](https://canvas.ucsd.edu/files/12836369/download?download_frd=1)
+: * [Decision making with visualizations: a cognitive framework across disciplines](https://canvas.ucsd.edu/files/12837393/download?download_frd=1)
 : * [The Design of Everyday Things (Chapter 7: User-centered design)](https://canvas.ucsd.edu/files/12837302/download?download_frd=1)
 
 Jul 24 (W)
