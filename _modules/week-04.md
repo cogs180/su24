@@ -4,7 +4,8 @@ title: Week 4
 
 Jul 22 (M)
 : **LEC 11**{: .label .label-grey} **[Nudging and choice architecture]** 🎥  
-    : [Slides]
+    : [Slides](https://canvas.ucsd.edu/files/12841812/download?download_frd=1)
+: [In-class nudge activity](https://docs.google.com/presentation/d/1RQ1JWjyF0SOXhxTYqyqcrIv9YCE3hcjpgeqVp8Cvzjw/edit?usp=sharing)
 : Readings 📖
 : * [Nudge: Improving Decisions about Health, Wealth, and Happiness (Intro & Chapter 1)](https://canvas.ucsd.edu/files/12836356/download?download_frd=1)
 : * [The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains](https://canvas.ucsd.edu/files/12836357/download?download_frd=1)
