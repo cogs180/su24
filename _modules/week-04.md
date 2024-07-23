@@ -14,8 +14,8 @@ Jul 22 (M)
     : [HW4](https://docs.google.com/document/d/1Up9ibS0XMuEIN9fjyDJiBMp6RMgBkymyEFj0ylbAwgE/edit?usp=sharing)
 
 Jul 23 (Tu)
-: **LEC 12**{: .label .label-grey} **[Human-centered design and computing]** 🎥  
-    : [Slides]
+: **LEC 12**{: .label .label-grey} **[Human-centered design]** 🎥  
+    : [Slides](https://canvas.ucsd.edu/files/12845278/download?download_frd=1)
 : Readings 📖
 : * [Human-Centered Design Meets Cognitive Load Theory: Designing Interfaces that Help People Think](https://canvas.ucsd.edu/files/12836369/download?download_frd=1)
 : * [Decision making with visualizations: a cognitive framework across disciplines](https://canvas.ucsd.edu/files/12837393/download?download_frd=1)
