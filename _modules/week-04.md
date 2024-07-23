@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 Jul 22 (M)
-: **LEC 11**{: .label .label-grey} **[Nudging and choice architecture]** 🎥  
+: **LEC 11**{: .label .label-grey} **[Nudging and choice architecture](https://ucsd.zoom.us/rec/share/7rBIQjStjbeFmPGeCF8XDlYxrRLRhEY40T361ylF-S9xYvPpk6S9bAaRjzkfyOao.dNdSalv2Uz9_FNhQ?startTime=1721692839000)** 🎥  
     : [Slides](https://canvas.ucsd.edu/files/12841812/download?download_frd=1)
 : [In-class nudge activity](https://docs.google.com/presentation/d/1RQ1JWjyF0SOXhxTYqyqcrIv9YCE3hcjpgeqVp8Cvzjw/edit?usp=sharing)
 : Readings 📖
