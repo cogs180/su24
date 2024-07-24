@@ -14,7 +14,7 @@ Jul 22 (M)
     : [HW4](https://docs.google.com/document/d/1Up9ibS0XMuEIN9fjyDJiBMp6RMgBkymyEFj0ylbAwgE/edit?usp=sharing)
 
 Jul 23 (Tu)
-: **LEC 12**{: .label .label-grey} **[Human-centered design]** 🎥  
+: **LEC 12**{: .label .label-grey} **[Human-centered design](https://ucsd.zoom.us/rec/play/lrhR47RTHDKOCaStRYwKXNb_x43uCoioOys5Xk4EQ89k64NUFuNENeAhU9VwjnNJ7gPyuX-4N1AL7JJX._GeTwhfmh8iUNbI6?autoplay=true&startTime=1721779249000)** 🎥  
     : [Slides](https://canvas.ucsd.edu/files/12845278/download?download_frd=1)
 : Readings 📖
 : * [Human-Centered Design Meets Cognitive Load Theory: Designing Interfaces that Help People Think](https://canvas.ucsd.edu/files/12836369/download?download_frd=1)
