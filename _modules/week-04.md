@@ -25,7 +25,7 @@ Jul 23 (Tu)
 
 Jul 24 (W)
 : **LEC 13**{: .label .label-grey} **[Machine learning and decision making]** 🎥  
-    : [Slides]
+    : [Slides](https://canvas.ucsd.edu/files/12846673/download?download_frd=1)
 : Readings 📖
 : * [Survey of Machine Learning Algorithms for Disease Diagnostic](https://canvas.ucsd.edu/files/12837292/download?download_frd=1)
 : * [Algorithmic Decision Making and the Cost of Fairness](https://canvas.ucsd.edu/files/12836373/download?download_frd=1)
