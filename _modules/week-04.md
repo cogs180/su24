@@ -24,8 +24,8 @@ Jul 23 (Tu)
 : * Group presentation paper: [Bringing Local Knowledge into Environmental Decision Making: Improving Urban Planning for Communities at Risk](https://journals.sagepub.com/doi/10.1177/0739456x03022004008)
 
 Jul 24 (W)
-: **LEC 13**{: .label .label-grey} **[Machine learning and decision making]** 🎥  
-    : [Slides](https://canvas.ucsd.edu/files/12846673/download?download_frd=1)
+: **LEC 13**{: .label .label-grey} **[Machine learning and algorithmic decision making](https://ucsd.zoom.us/rec/share/0QIYas4KSjGg4rhAtUyjJ5weNxTnkAosOXjZEoXWeA_OncWsGEAz81rNWqpQqEea.bYY5CHXJZt-9f8gz?startTime=1721865826000)** 🎥  
+    : [Slides](https://canvas.ucsd.edu/files/12849452/download?download_frd=1)
 : Readings 📖
 : * [Survey of Machine Learning Algorithms for Disease Diagnostic](https://canvas.ucsd.edu/files/12837292/download?download_frd=1)
 : * [Algorithmic Decision Making and the Cost of Fairness](https://canvas.ucsd.edu/files/12836373/download?download_frd=1)
