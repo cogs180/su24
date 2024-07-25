@@ -33,7 +33,7 @@ Jul 24 (W)
 
 Jul 25 (Th)
 : **LEC 14**{: .label .label-grey} **[Making decisions with AI…and in real life]** 🎥  
-    : [Slides]
+    : [Slides](https://canvas.ucsd.edu/files/12850183/download?download_frd=1)
 : Readings 📖
 : * [Towards a Science of Human-AI Decision Making: An Overview of Design Space in Empirical Human-Subject Studies](https://canvas.ucsd.edu/files/12836370/download?download_frd=1)
 : * [People are averse to machines making moral decisions](https://canvas.ucsd.edu/files/12836361/download?download_frd=1)
