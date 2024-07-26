@@ -33,7 +33,7 @@ Jul 24 (W)
 
 Jul 25 (Th)
 : **LEC 14**{: .label .label-grey} **[Making decisions with AI…and in real life](https://ucsd.zoom.us/rec/play/NvRdXB70sxxVlkow5Jt5uIXKnQicnr1zuEhg321Me2nmmeNOIwNmpfL3oP67nTlv3PLxpPYI5DT69Evv.L4mXZgGe8T47SoER?autoplay=true&startTime=1721954074000)** 🎥  
-    : [Slides](https://canvas.ucsd.edu/files/12850183/download?download_frd=1)
+    : [Slides](https://canvas.ucsd.edu/files/12851628/download?download_frd=1)
 : (Apologies for this recording, we did group presentations at the beginning of class, but I failed to record until after the presentation was over)
 : Readings 📖
 : * [Towards a Science of Human-AI Decision Making: An Overview of Design Space in Empirical Human-Subject Studies](https://canvas.ucsd.edu/files/12836370/download?download_frd=1)
