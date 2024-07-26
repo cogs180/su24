@@ -32,7 +32,7 @@ Jul 24 (W)
 : * Group presentation paper: [Building machines that learn and think like people](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-like-people/A9535B1D745A0377E16C590E14B94993)
 
 Jul 25 (Th)
-: **LEC 14**{: .label .label-grey} **[Making decisions with AI…and in real life]** 🎥  
+: **LEC 14**{: .label .label-grey} **[Making decisions with AI…and in real life](https://ucsd.zoom.us/rec/play/NvRdXB70sxxVlkow5Jt5uIXKnQicnr1zuEhg321Me2nmmeNOIwNmpfL3oP67nTlv3PLxpPYI5DT69Evv.L4mXZgGe8T47SoER?autoplay=true&startTime=1721954074000)** 🎥  
     : [Slides](https://canvas.ucsd.edu/files/12850183/download?download_frd=1)
 : Readings 📖
 : * [Towards a Science of Human-AI Decision Making: An Overview of Design Space in Empirical Human-Subject Studies](https://canvas.ucsd.edu/files/12836370/download?download_frd=1)
