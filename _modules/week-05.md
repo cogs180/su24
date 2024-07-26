@@ -2,30 +2,37 @@
 title: Week 5 
 ---
 Jul 29 (M)
-: **Final Group Presentations**{: .label .label-blue} 
+: **Summary**{: .label .label-grey} **[Course summary & overview of final assignments]** 🎥  
+: Readings 📖
+: * Group presentation paper: [Does automation bias decision-making?](https://www.sciencedirect.com/science/article/abs/pii/S1071581999902525)
+: * Group presentation paper: [Towards a Science of Human-AI Decision Making](https://dl.acm.org/doi/10.1145/3593013.3594087)
 :  **HW 5 RELEASED**{: .label .label-green } Due Aug 4
     : [HW5]
+:  **Post-course survey RELEASED**{: .label .label-green } Due Aug 5
+    : [Post-course survey]
 
 Jul 30 (Tu) 
 : **Final Project Presentations**{: .label .label-blue} 
-    : [Presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
+    : [Final presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
 
 Jul 31  (W)
 : **Final Project Presentations**{: .label .label-blue} 
-
+    : [Final presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
+    
 Aug 1 (Th) 
 : **Final Project Presentations**{: .label .label-blue} 
+    : [Final presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
     
 Aug 3 (Sa)
-:  **FINAL PROJECT PAPER DUE**{: .label .label-red } 
+:  **FINAL PROJECT PAPER DUE**{: .label .label-red } by 11:59pm anywhere in the world
     : [Submit final project](https://canvas.ucsd.edu/courses/57867/assignments/820355)
 
 Aug 4 (Su)
-:  **HW 5 DUE**{: .label .label-red } 
+:  **HW 5 DUE**{: .label .label-red } by 11:59pm anywhere in the world
     : [Submit HW5](https://canvas.ucsd.edu/courses/57867/assignments/820353)
 
 Aug 5 (M)
-:  **Post-course survey DUE**{: .label .label-red } 
+:  **Post-course survey DUE**{: .label .label-red } by 11:59pm anywhere in the world
     : [Post-course survey]
 
 
