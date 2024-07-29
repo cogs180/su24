@@ -14,14 +14,17 @@ Jul 29 (M)
 Jul 30 (Tu) 
 : **Final Project Presentations**{: .label .label-blue} 
     : [Final presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
+: [In-class final presentation evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSdIcWNwAf9ekGZISElj9raVrs0_j_hSTJth9mw4Tmxmy_S86g/viewform)
 
 Jul 31  (W)
 : **Final Project Presentations**{: .label .label-blue} 
     : [Final presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
+: [In-class final presentation evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSdIcWNwAf9ekGZISElj9raVrs0_j_hSTJth9mw4Tmxmy_S86g/viewform)
     
 Aug 1 (Th) 
 : **Final Project Presentations**{: .label .label-blue} 
     : [Final presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
+: [In-class final presentation evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSdIcWNwAf9ekGZISElj9raVrs0_j_hSTJth9mw4Tmxmy_S86g/viewform)
     
 Aug 3 (Sa)
 :  **FINAL PROJECT PAPER DUE**{: .label .label-red } by 11:59pm anywhere in the world
@@ -33,6 +36,6 @@ Aug 4 (Su)
 
 Aug 5 (M)
 :  **Post-course survey DUE**{: .label .label-red } by 11:59pm anywhere in the world
-    : [Post-course survey]
+    : [Post-course survey](https://forms.gle/xS6V4vMKeWgeVcmE9)
 
 
