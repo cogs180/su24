@@ -7,9 +7,9 @@ Jul 29 (M)
 : * Group presentation paper: [Does automation bias decision-making?](https://www.sciencedirect.com/science/article/abs/pii/S1071581999902525)
 : * Group presentation paper: [Towards a Science of Human-AI Decision Making](https://dl.acm.org/doi/10.1145/3593013.3594087)
 :  **HW 5 RELEASED**{: .label .label-green } Due Aug 4
-    : [HW5]
+    : [HW5](https://docs.google.com/document/d/1nKBwTcFFQuhRf49NNhUThzzWmYF2Rt-C8z5byhv6vyc/edit?usp=sharing)
 :  **Post-course survey RELEASED**{: .label .label-green } Due Aug 5
-    : [Post-course survey]
+    : [Post-course survey](https://forms.gle/xS6V4vMKeWgeVcmE9)
 
 Jul 30 (Tu) 
 : **Final Project Presentations**{: .label .label-blue} 
