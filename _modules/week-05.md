@@ -37,5 +37,6 @@ Aug 4 (Su)
 Aug 5 (M)
 :  **Post-course survey DUE**{: .label .label-red } by 11:59pm anywhere in the world
     : [Post-course survey](https://forms.gle/xS6V4vMKeWgeVcmE9)
+    : [Submit completion code](https://canvas.ucsd.edu/courses/57867/assignments/822857)
 
 
