@@ -15,19 +15,19 @@ Jul 29 (M)
     : [SET evaluations](https://academicaffairs.ucsd.edu/Modules/Evals?e11720726)
 
 Jul 30 (Tu) 
-: **[Final Project Presentations - Day 1](https://ucsd.zoom.us/rec/share/B4CdFPbwO5LuQT48oxpjrzvH3GvCQ3rHDkSu2xZdehV5peWmdnntTN95_AE1gi4K.PEftwf7BpemJAzC4)**{: .label .label-blue} 
+: **Final Project Presentations**{: .label .label-blue} **[Day 1](https://ucsd.zoom.us/rec/share/B4CdFPbwO5LuQT48oxpjrzvH3GvCQ3rHDkSu2xZdehV5peWmdnntTN95_AE1gi4K.PEftwf7BpemJAzC4)** 🎥  
     : [Final presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
     : [Submit presentation slides here](https://canvas.ucsd.edu/courses/57867/assignments/825120)
 : [In-class final presentation evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSdIcWNwAf9ekGZISElj9raVrs0_j_hSTJth9mw4Tmxmy_S86g/viewform)
 
 Jul 31  (W)
-: **Final Project Presentations - Day 2**{: .label .label-blue} 
+: **Final Project Presentations**{: .label .label-blue} **[Day 2]** 🎥  
     : [Final presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
     : [Submit presentation slides here](https://canvas.ucsd.edu/courses/57867/assignments/825120)
 : [In-class final presentation evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSdIcWNwAf9ekGZISElj9raVrs0_j_hSTJth9mw4Tmxmy_S86g/viewform)
     
 Aug 1 (Th) 
-: **Final Project Presentations - Day 3**{: .label .label-blue} 
+: **Final Project Presentations**{: .label .label-blue} **[Day 3]** 🎥  
     : [Final presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
     : [Submit presentation slides here](https://canvas.ucsd.edu/courses/57867/assignments/825120)
 : [In-class final presentation evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSdIcWNwAf9ekGZISElj9raVrs0_j_hSTJth9mw4Tmxmy_S86g/viewform)
