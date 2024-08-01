@@ -21,7 +21,7 @@ Jul 30 (Tu)
 : [In-class final presentation evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSdIcWNwAf9ekGZISElj9raVrs0_j_hSTJth9mw4Tmxmy_S86g/viewform)
 
 Jul 31  (W)
-: **Final Project Presentations**{: .label .label-blue} **[Day 2]** 🎥  
+: **Final Project Presentations**{: .label .label-blue} **[Day 2](https://ucsd.zoom.us/rec/share/CMogvojqPeOF6Ks7aGAkh2Tp5PNpsMwRzbA3l08gpiuNKoVBI91xVCurMyGo1T_v.s1ScQR1QNgtR8WEt?startTime=1722470592000)** 🎥  
     : [Final presentation dates](https://docs.google.com/document/d/1iLSbTZqS0W4K1cwa3Koy4BMfDHT9pQF2AMsbZk2BiKo/edit?usp=sharing)
     : [Submit presentation slides here](https://canvas.ucsd.edu/courses/57867/assignments/825120)
 : [In-class final presentation evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSdIcWNwAf9ekGZISElj9raVrs0_j_hSTJth9mw4Tmxmy_S86g/viewform)
